@@ -1,0 +1,169 @@
+header, li, nav{
+    display: inline-block;
+}
+
+body {
+    margin: 30px 0 0 30px;
+}
+
+.navbar-link {
+    font-size: 22px;
+    font-weight: bold;
+    color: #3D58A6;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+
+.main-hari {
+    margin-left: 49.8px;
+}
+.news-hari {
+    margin-left: 22px;
+}
+.contact-hari {
+    margin-left: 39px;
+}
+
+.information {
+    margin-top: 84.9px;
+    margin-left: 68px;
+}
+
+h3 {
+    margin-top: 109.6px;
+    font-family: 'Roboto';
+    font-size: 24px;
+    }
+
+    /* web desing */
+
+.main-block, .main-block2 {
+	display: block;
+    width: 570px;
+    margin-top: 29.8px;
+    padding: 20px;
+}
+
+.main-block-image, .main-block-image2 {
+    margin: 20px 10px;
+     vertical-align: middle;
+}
+
+.main-block-title, .main-block-title2 {
+    font-family: 'Roboto';
+    color: #3D58A6;
+    font-size: 22px;
+    margin:11.1px 0px;
+    margin-left: 15.9px;
+}
+
+.main-block-desc, .main-block-desc2 {
+	display: inline-block;
+    width: 355px;
+    position: relative;
+    vertical-align: top;
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.main-block, .main-block2 {
+    display: inline-block;
+}
+
+.fa {
+    padding: 20px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  /* start index2 */
+
+  .date{
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    margin-top: 40.4px;
+    margin-bottom: 7px;
+    display: inline-block;
+}
+
+h4{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+.mDate{
+    font-size: 22px;
+    color: #3D58A6;
+}
+
+h6, .mDate{
+    display: inline-block;
+}
+
+h5 {
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-size: 20px;
+    margin-top: 54.5px;
+}
+.image {
+    margin-top: 16.5px;
+    vertical-align: top;
+}
+
+.text1 {
+    font-family: 'BPG Ingiri Arial';
+}
+.text2, .text3, .text4{
+    margin-top: 10px;
+    font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+}
+
+.texts {
+    display: inline-block;
+    padding-top: 20px;
+    padding-left: 39px;
+    width: 929px;
+    height: 360px;
+}
+
+/* start maps */
+
+.contact-inforamtion {
+    margin-top: 21.2px;
+    background: #E6E6E6;
+}
+
+.contact {
+    width: 251px;
+    height: 93px;
+    vertical-align: top;
+    margin-left: 87.3px;
+}
+
+.adress {
+    font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+    padding-top: 5px;
+}
+span{
+    color: #808080;
+    font-family: 'BPG Ingiri Arial';
+    font-size: 16px;
+}
+.info2 {
+    font-size: 20px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-weight: bold;
+    color: #3D58A6;
+}
+
+.maps {
+    padding: 52px 0 52px 90px;
+}
+
+.contact, .maps {
+    display: inline-block;
+}
